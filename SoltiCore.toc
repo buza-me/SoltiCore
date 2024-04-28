@@ -1,0 +1,10 @@
+﻿## Interface: 20400
+## Title: |cffFFFFFFSolti Core|r
+## Notes: Media extensions for WA
+## Author: Solti
+## OptionalDeps: LibSharedMedia-3.0, LibStub
+
+Libs\LibStub\LibStub.lua
+Libs\LibSharedMedia-3.0\lib.xml
+
+SoltiCore.lua
