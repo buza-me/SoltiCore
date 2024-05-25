@@ -16,6 +16,8 @@ LSM:Register("sound", "Female: Clear", "Interface\\AddOns\\SoltiCore\\Media\\Sou
 LSM:Register("sound", "Female: Disabled", "Interface\\AddOns\\SoltiCore\\Media\\Sounds\\Female\\female_disabled.mp3")
 LSM:Register("sound", "Female: Stunned", "Interface\\AddOns\\SoltiCore\\Media\\Sounds\\Female\\female_stunned.mp3")
 LSM:Register("sound", "Female: Armageddon", "Interface\\AddOns\\SoltiCore\\Media\\Sounds\\Female\\female_armageddon.mp3")
+LSM:Register("sound", "Female: Dispel", "Interface\\AddOns\\SoltiCore\\Media\\Sounds\\Female\\female_dispel.mp3")
+LSM:Register("sound", "Female: Soak", "Interface\\AddOns\\SoltiCore\\Media\\Sounds\\Female\\female_soak.mp3")
 ----------------------------------------------------------------------------------------------------------------
 ----------------------------------------------------------------------------------------------------------------
 -- Male:
@@ -33,6 +35,8 @@ LSM:Register("sound", "Male: Clear", "Interface\\AddOns\\SoltiCore\\Media\\Sound
 LSM:Register("sound", "Male: Disabled", "Interface\\AddOns\\SoltiCore\\Media\\Sounds\\Male\\male_disabled.mp3")
 LSM:Register("sound", "Male: Stunned", "Interface\\AddOns\\SoltiCore\\Media\\Sounds\\Male\\male_stunned.mp3")
 LSM:Register("sound", "Male: Armageddon", "Interface\\AddOns\\SoltiCore\\Media\\Sounds\\Male\\male_armageddon.mp3")
+LSM:Register("sound", "Male: Dispel", "Interface\\AddOns\\SoltiCore\\Media\\Sounds\\Male\\male_dispel.mp3")
+LSM:Register("sound", "Male: Soak", "Interface\\AddOns\\SoltiCore\\Media\\Sounds\\Male\\male_soak.mp3")
 ----------------------------------------------------------------------------------------------------------------
 ----------------------------------------------------------------------------------------------------------------
 -- Misc:
